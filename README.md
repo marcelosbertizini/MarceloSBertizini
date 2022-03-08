@@ -1,7 +1,7 @@
 <div>
-  <a href="https://github.com/MarceloSBertizini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloSBertizini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloSBertizini&layout=compact&langs_count=6&theme=radical"/>
+  <a href="https://github.com/marcelosbertizini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelosbertizini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosbertizini&layout=compact&langs_count=6&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,6 +18,6 @@
    <a href = "mailto:marceloberrtizini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcelo-bertizini-962194ba/s" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/MarceloSBertizini/MarceloSBertizini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/marcelosbertizini/marcelosbertizini/blob/output/github-contribution-grid-snake.svg)
   
   </div>
